@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:  
 🔭 I’m currently working on:<br>    💡 Passion projects that blend AI, web dev, and real-world automation<br>    🔐 Learning to secure code like a white-hat ninja<br>    📱 Building apps that don’t just run — they impress<br><br>🤝 I’m looking to collaborate on:<br>    🌍 Innovative projects in web dev, AI/ML, or anything that challenges the norm<br>    📦 Open-source tools with clean code and cooler impact<br><br>🙋 I’m looking for help with:<br>    🧩 Large-scale system design & distributed computing<br>    🚀 Advanced machine learning and data engineering<br><br>🌱 I’m currently learning:<br>    ⚙️ Full-Stack Web Development (MERN + Next.js)<br>    🧠 Machine Learning with Python & TensorFlow<br>    🐳 Docker, GitHub Actions, and CI/CD workflows<br><br>💬 Ask me about:<br>    📂 Building structured, scalable apps from scratch<br>    🧠 How I turned bugs into features (or at least good stories)<br>    🛠️ How I approach problem-solving in CS<br><br>⚡ Fun fact:<br>    🔧 I treat Stack Overflow like my second brain 🧠<br><br>
 
 
