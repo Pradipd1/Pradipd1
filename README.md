@@ -53,29 +53,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
----
-
-## 💼 Experience
-
-### Summer Intern — Softweb Development Pvt. Ltd.
-
-**Full-Stack Web Development · MERN Stack**
-
-- Worked on full-stack web applications using the MERN stack
-- Developed responsive frontend interfaces
-- Built and integrated REST APIs
-- Worked with MongoDB and backend services
-- Debugged and improved application functionality
-
----
-
-## 📈 GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradipd1&show_icons=true&hide_border=true&rank_icon=github)](https://github.com/Pradipd1)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradipd1&layout=compact&hide_border=true)](https://github.com/Pradipd1)
-
----
 
 ## 🌐 Connect
 
